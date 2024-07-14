@@ -18,7 +18,6 @@
 >   * [Features](#features)
 >   * [Screenshots](#screenshots)
 >   * [Code](#code)
->     * [Content](#content)
 >     * [Limitations](#limitations)
 >   * [License](#license)
 
