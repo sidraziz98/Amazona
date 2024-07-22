@@ -15,7 +15,12 @@ mongoose.connect(process.env.MONGODB_URL || 'mongodb://localhost/E-Commerce', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
+}).then(()=>{
+  console.log("Database connected successfully");
+}).catch((error)=>{
+  console.log("Failed to connect to database. Error: ", error);
 });
+
 app.use('/api/users', userRouter);
 app.use('/api/products', productRouter);
 app.use('/api/orders', orderRouter);
