@@ -51,19 +51,25 @@
 ## Screenshots
 
 - Home Screen</br>
-![Home Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1fmQxNXdauY5s_Ut7tjRTAnkWMKT0W9AA&s) </br>
-
-- ShoppingCart Screen</br>
-![Shopping Cart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1fmQxNXdauY5s_Ut7tjRTAnkWMKT0W9AA&s) </br>
+![Home Screen](https://github.com/sidraziz98/Amazona/blob/master/Images/AllProducts.png) </br>
 
 - Product Screen</br>
-![Product Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1fmQxNXdauY5s_Ut7tjRTAnkWMKT0W9AA&s) </br>
+![Product Screen](https://github.com/sidraziz98/Amazona/blob/master/Images/SingleProduct.png) </br>
 
-- Checkout Screen</br>
-![Checkout Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1fmQxNXdauY5s_Ut7tjRTAnkWMKT0W9AA&s) </br>
+- ShoppingCart Screen</br>
+![Shopping Cart](https://github.com/sidraziz98/Amazona/blob/master/Images/Checkout.png) </br>
 
 - Order Screen</br>
-![Order Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj1fmQxNXdauY5s_Ut7tjRTAnkWMKT0W9AA&s) </br>
+![Order Screen](https://github.com/sidraziz98/Amazona/blob/master/Images/PlaceOrder.png) </br>
+
+- Sign In Screen</br>
+![Sign In Screen](https://github.com/sidraziz98/Amazona/blob/master/Images/Signin.png) </br>
+
+- Sign Up Screen</br>
+![Sign Up Screen](https://github.com/sidraziz98/Amazona/blob/master/Images/Signup.png) </br>
+
+- Order History Screen</br>
+![Order History Screen](https://github.com/sidraziz98/Amazona/blob/master/Images/OrderHistory.png) </br>
 
 ## Code
 
